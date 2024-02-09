@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <string name="title">Title</string>
+    <string name="expense_tracker">Expense Tracker</string>
+    <string name="amount">Amount</string>
+    <string name="save">Save</string>
+    <string name="delete_all">Delete All</string>
+    <string name="summary">Summary</string>
+    <string name="expenses_income">Expenses/Income</string>
+    <string name="no_expense_income_yet">No Expense/Income yet!!</string>
+    <string name="total_expense">Total Expense:</string>
+    <string name="total_income">Total Income:</string>
+    <string name="balance">Balance:</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
